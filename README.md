@@ -32,8 +32,8 @@ go install github.com/tomnomnom/gf@latest
 ``` bash
 git clone https://github.com/1ndianl33t/Gf-Patterns
 mkdir -p ~/.gf
-cp ~Gf-Patterns/*.json ~/.gf
-ls ~/.gf
+cp Gf-Patterns/*.json ~/.gf/    
+ls ~/.gf
 ```
 ### 9️⃣Install SpiderFoot
 ```bash
